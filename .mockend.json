@@ -1,4 +1,4 @@
-[
+{"States":[
     {
         "name": "Alabama",
         "abbreviation": "AL"
@@ -236,3 +236,4 @@
         "abbreviation": "WY"
     }
 ]
+}
